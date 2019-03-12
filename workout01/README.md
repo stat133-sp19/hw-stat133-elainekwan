@@ -1,6 +1,9 @@
 Elaine Kwan 
+
 Workout 01
+
 STAT133 Spring 2019
+
 GSI: Colin Khou
 
 This workout is designed to provide an opportunity to create a more complex file struture, use analytics to visualize shot data of five Golden State Warriors players, and generate a report with a narrative to describe the analysis. Within the workout01 folder, there are five folders: code, data, images, output, and report. The code folder contains the scripts to prepare the data and create shot visualizations. The data folder contains the prepped data of all the players. The images folder contains all the image files used in report. The output folder contains plain text files with the summaries of the prepped player data. The report folder contains the narrative/workout report. 
