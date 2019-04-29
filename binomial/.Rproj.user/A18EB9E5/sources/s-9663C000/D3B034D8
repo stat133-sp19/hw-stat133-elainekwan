@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556153694258.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D3B034D8",
+    "lastKnownWriteTime" : 1556162732,
+    "last_content_update" : 1556162732111,
+    "path" : "~/binomial/tests/testthat/aux_test.R",
+    "project_path" : "tests/testthat/aux_test.R",
+    "properties" : {
+        "cursorPosition" : "11,42",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

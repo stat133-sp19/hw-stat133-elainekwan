@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556213557168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABAD9675",
+    "lastKnownWriteTime" : 1556555251,
+    "last_content_update" : 1556555251881,
+    "path" : "~/binomial/vignettes/Introduction.Rmd",
+    "project_path" : "vignettes/Introduction.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,20",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
