@@ -2,7 +2,7 @@
 
 # Description: check if probability is valid (between 0 and 1)
 # Inputs
-#   prob: probability values
+#   prob: probability
 # Output
 #   logical: TRUE or FALSE
 check_prob = function(prob){
@@ -33,7 +33,7 @@ check_trials = function(trials){
 # Output
 #   logical: TRUE or FALSE
 check_success = function(success, trials){
-  if(sum(success <= trials) == length(success) & success%%1 == 0 & success >= 0){
+  if(all(success <= trials) & all(success%%1 == 0) & all(success >= 0)){
     return(TRUE)
   }else if(sum(success < trials) != length(success)){
     stop('success cannot be greater than trials')
@@ -41,6 +41,8 @@ check_success = function(success, trials){
     stop('invalid success value')
   }
 }
+
+check_success(1:3,5)
 
 #1.2) Private Auxiliary Functions
 # Description: calculate mean from number of trials and probability
